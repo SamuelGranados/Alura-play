@@ -24,6 +24,10 @@ body {
 
 /* CABEÇALHO */
 
+.cabecalho {
+    margin-top: 3em;
+}
+
 .cabecalho__container {
     background-color: white;
     height: 80px;
@@ -90,6 +94,10 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     padding: 13px 30px 13px 13px;
+}
+
+.mensagem__titulo {
+    margin-top: 3em;
 }
 
 /* MENU LATERAL */

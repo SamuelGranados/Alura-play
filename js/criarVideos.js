@@ -14,4 +14,4 @@ async function criarVideo(evento) {
     window.location.href = "../pages/envio-concluido.html";
 }
 
-formulario.addEventListener("submit", evento => criarVideo(evento));
+formulario.addEventListener("submit", evento => criarVideo(evento))
